@@ -1,4 +1,4 @@
-# Platypu-MainMenu
+# Platypus-MainMenu
 - A mod MainMenu from Platypus by chris1111
  
 ### Credit: [Platypus](https://sveinbjorn.org/platypus)
